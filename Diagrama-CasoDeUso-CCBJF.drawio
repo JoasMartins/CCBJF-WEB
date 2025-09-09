@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.0">
+  <diagram name="Página-1" id="CWS4dL02aRWOO5LT9fSl">
+    <mxGraphModel dx="1665" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_H0q9K523hcES1Xt-hKF-1" value="Administrador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="399" y="10" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_H0q9K523hcES1Xt-hKF-3" value="Website" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="34" y="120" width="760" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="_H0q9K523hcES1Xt-hKF-7" value="/eventos" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="_H0q9K523hcES1Xt-hKF-3">
+          <mxGeometry x="26" y="40" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="_H0q9K523hcES1Xt-hKF-8" value="/eventos/criar" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="_H0q9K523hcES1Xt-hKF-3">
+          <mxGeometry x="166" y="40" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="_H0q9K523hcES1Xt-hKF-9" value="/eventos/[idEvento]" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="_H0q9K523hcES1Xt-hKF-3">
+          <mxGeometry x="316" y="40" width="144" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="_H0q9K523hcES1Xt-hKF-4" value="API" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="34" y="520" width="760" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="_H0q9K523hcES1Xt-hKF-5" value="Google Calendar API" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="34" y="880" width="766" height="220" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
